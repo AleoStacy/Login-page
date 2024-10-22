@@ -19,5 +19,5 @@ server.use(router);
 // Start the server and listen on port 3000
 const PORT = process.env.PORT || 3000; // Use environment variable or default to 3000
 server.listen(PORT, () => {
-  console.log(`JSON Server is running on http://localhost:${PORT}`);
+  console.log(`JSON Server is running on http://localhost:3000/`);
 });
