@@ -8,8 +8,7 @@ This is a simple and responsive login page built using HTML, CSS, JavaScript, an
  - Basic validation for empty fields
  - Responsive design using Bootstrap grid and utility classes
  - Styled form components using Bootstrap
-   Demo
-[Include a link or a GIF showing how the login page works.]
+
 
 ## Technologies Used
  - HTML5: For structuring the page and form
