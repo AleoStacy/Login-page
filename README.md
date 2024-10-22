@@ -9,7 +9,7 @@ This is a simple and responsive login page built using HTML, CSS, JavaScript, an
  - Responsive design using Bootstrap grid and utility classes
  - Styled form components using Bootstrap
    Demo
-[https://vercel.live/link/login-page-chi-mauve.vercel.app?via=deployment-domains-list&p=1]
+[Include a link or a GIF showing how the login page works.]
 
 ## Technologies Used
  - HTML5: For structuring the page and form
@@ -20,7 +20,7 @@ This is a simple and responsive login page built using HTML, CSS, JavaScript, an
 Clone the repository:
 Copy code
 ## bash
-git clone https://github.com/yourusername/login-page.git
+git clone https://github.com/AleoStacy/Login-page.git
 Navigate into the project directory:
 ## bash
 Copy code
@@ -31,6 +31,7 @@ Copy code
 open index.html
 
 ## Project Structure
+
 login-page/
 ├── index.html
 ├── styles.css
